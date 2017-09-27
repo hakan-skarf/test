@@ -3,3 +3,5 @@ Hello GIT!
 Ändrad!
 
 Ändrad igen i Branch 2.0
+
+Ändrad för andra gången i branch 2.0
